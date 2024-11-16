@@ -14,4 +14,3 @@ This repository contains the analysis and insights for Freshco Hypermarket's hom
 ## Files Included
 - **Excel Workbook**: Detailed calculations and charts.
 - **Report**: Summary and observations of the analysis.
-- **Presentation Video**: Business-oriented insights in a 10-minute video.
